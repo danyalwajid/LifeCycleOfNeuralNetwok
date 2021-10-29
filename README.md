@@ -1,3 +1,3 @@
 # LifeCycleOfNeuralNetwok
 Life Cycle
-i will change it soon
+Just Started this code
