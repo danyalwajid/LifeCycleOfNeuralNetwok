@@ -1,3 +1,5 @@
 # LifeCycleOfNeuralNetwok
-Life Cycle
-Just Started this code
+Life Cycle for Neural Network Models in Keras 
+
+Testing
+pakistan
